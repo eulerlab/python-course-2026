@@ -28,7 +28,7 @@ __During the sessions__, we will discuss what you learned, where you encountered
 
 ## 17.4. | Introduction, Setup, Project overview
 __To prepare before:__
-- Read chapters ["About This Course"](https://neuraldatascience.io/intro/why/) (all sections) and ["Introduction to Data Science"](https://neuraldatascience.io/nds/introduction/) (all sections)
+- Read chapters ["About This Course"](https://neuraldatascience.io/intro/why/) (all sections) and ["Introduction to Data Science"](https://neuraldatascience.io/nds/what-is-nds/) (all sections)
 
 __During the class:__
 - _Why this course?_ About adult learners and your motivation to learn Python, your programming/Python background, that the only way to learn to code is to write it, the importance of coding skills for science and beyond, and the use of AI tools.
