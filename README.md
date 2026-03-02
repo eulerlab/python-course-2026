@@ -9,7 +9,7 @@ In this class, we will follow largely (but not exclusively) the course [NESC 350
 The first part of the course follows an inverted classroom approach, which means you prepare the material for the sessions at home, leaving the actual sessions for discussions, questions, and problem-solving. The second part of the course will address more specific topics, such as the use of AI, data processing and presentation for neuroscience, how to design (re)usable software and such.
 
 ### Schedule
-Comming soon
+Coming soon
 
 ### Materials
 The materials consist of
