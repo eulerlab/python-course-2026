@@ -24,7 +24,7 @@ __During the sessions__, we will to the exercise parts of the notebooks together
 > _Important: The links to chapters point at the original class material, whereas the notebooks you will find in your `bwJupyter` environment - as demonstrated in the first session._
 
 ### Important link(s)
-[Link to bwJupyter environment](https://hub.bwjupyter.de/services/profilemanagement/add?profile=cc0f3dc4-ec2d-42ac-9b5e-84a67ccc915c )  
+[Link to bwJupyter environment](https://hub.bwjupyter.de/services/profilemanagement/add?profile=617d20c6-5216-4ab8-bf77-0f652278c3d8)  
 
 ## 17.4. | Introduction, Setup, Project overview
 __To prepare before:__
@@ -32,7 +32,7 @@ __To prepare before:__
 
 ## 02.05. | Variables & Assignment, Data Types & Conversion, Python Built-ins, Lists, Dictionaries
 __To prepare before:__
-- Read chapter ["Introducing Python"](https://neuraldatascience.io/3-python/introduction.html); you can ignore the section `Deactivate AI for Now`. Also, read the next chapter with the respective learning objectives.
+- Read chapter ["Introducing Python"](https://neuraldatascience.io/python/introduction/); you can ignore the section `Deactivate AI for Now`. Also, read the next chapter with the respective learning objectives.
 - On bwJupyter: do the exercises in `1-Introducing-Python\1a`.
 
 __During the class:__
