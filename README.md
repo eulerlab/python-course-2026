@@ -30,14 +30,18 @@ __During the sessions__, we will to the exercise parts of the notebooks together
 __To prepare before:__
 - Read chapters ["About This Course"](https://neuraldatascience.io/intro/why/) (all sections) and ["Introduction to Data Science"](https://neuraldatascience.io/nds/what-is-nds/) (all sections)
 
-## 02.05. | Variables & Assignment, Data Types & Conversion, Python Built-ins, Lists, Dictionaries
-__To prepare before:__
-- Read chapter ["Introducing Python"](https://neuraldatascience.io/python/introduction/); you can ignore the section `Deactivate AI for Now`. Also, read the next chapter with the respective learning objectives.
-- On bwJupyter: do the exercises in `1-Introducing-Python\1a`.
-
 __During the class:__
 - _Why this course?_ About adult learners and your motivation to learn Python, your programming/Python background, that the only way to learn to code is to write it, the importance of coding skills for science and beyond, and the use of AI tools.
 - _The organisation of this course._ Time budget outside the classroom, videos as the last resort, and final project.
 - _Setting up `bwJupyter.de`__ and accessing the course material. How to submit exercises.
 - _Skills evaluation_
+
+## 02.05. | Variables & Assignment, Data Types & Conversion, Python Built-ins, Lists, Dictionaries
+__To prepare before:__
+- Read chapter ["Introducing Python"](https://neuraldatascience.io/python/introduction/); you can ignore the section `Deactivate AI for Now`. Also, read the next chapter with the respective learning objectives.
+- On bwJupyter: Go over the notebooks `01 - Variables and Assignments` to 05 - Dictionaries` under `__shared`. Note that the exercise parts of the notebooks will be done in class.
+
+__During the class:__
+- Do exercises together, answer qustions.
+
 
