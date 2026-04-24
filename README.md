@@ -39,7 +39,7 @@ __During the class:__
 ## 02.05. | Variables & Assignment, Data Types & Conversion, Python Built-ins, Lists, Dictionaries
 __To prepare before:__
 - Read chapter ["Introducing Python"](https://neuraldatascience.io/python/introduction/); you can ignore the section `Deactivate AI for Now`. Also, read the next chapter with the respective learning objectives.
-- On bwJupyter: Go over the notebooks `01 - Variables and Assignments` to 05 - Dictionaries` under `__shared`. Note that the exercise parts of the notebooks will be done in class.
+- On bwJupyter: Go over the notebooks `01 - Variables and Assignments` to 05 - `Dictionaries` under `__shared`. Note that the exercise parts of the notebooks will be done in class.
 
 __During the class:__
 - Do exercises together, answer qustions.
