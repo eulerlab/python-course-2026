@@ -36,12 +36,20 @@ __During the class:__
 - _Setting up `bwJupyter.de`__ and accessing the course material. How to submit exercises.
 - _Skills evaluation_
 
-## 02.05. | Variables & Assignment, Data Types & Conversion, Python Built-ins, Lists, Dictionaries
+## 24.04. | Variables & Assignment, Data Types & Conversion, Python Built-ins, Lists (, Dictionaries)
 __To prepare before:__
 - Read chapter ["Introducing Python"](https://neuraldatascience.io/python/introduction/); you can ignore the section `Deactivate AI for Now`. Also, read the next chapter with the respective learning objectives.
 - On bwJupyter: Go over the notebooks `01 - Variables and Assignments` to `05 - Dictionaries` under `__shared`. Note that the exercise parts of the notebooks will be done in class.
 
 __During the class:__
 - Do exercises together, answer qustions.
+
+## 08.05. | Dictionaries, For loops, Conditionals, pandas, Looping over datafiles
+__To prepare before:__
+- On bwJupyter: Go over the notebooks `06 - For Loops` and `09 - Looping Data Files` under `__shared`.
+
+__During the class:__
+- Do exercises together, answer qustions.
+- For more advanced students, there will be additional, more challenging exercises (check out the `extra_execises` folder)
 
 
