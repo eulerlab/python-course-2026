@@ -52,4 +52,10 @@ __During the class:__
 - Do exercises together, answer qustions.
 - For more advanced students, there will be additional, more challenging exercises (check out the `extra_execises` folder)
 
+## 15.05. | Numpy and Scipy
+__To prepare before:__
+- Go over the official [numpy tutorial](https://numpy.org/doc/2.4/user/absolute_beginners.html)
+- On bwJupyter: Go over the notebook `10 - Numpy and Scipy` (no need to do the tasks, we will do them together in the class)
 
+__During the class:__
+- We will go through the notebook and do the tasks in the notebook
