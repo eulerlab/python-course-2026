@@ -54,6 +54,7 @@ __During the class:__
 
 ## 15.05. | Numpy and Scipy
 __To prepare before:__
+- On bwJupyter: Go over the notebook `08 - pandas DataFrames`
 - Go over the official [numpy tutorial](https://numpy.org/doc/2.4/user/absolute_beginners.html)
 - On bwJupyter: Go over the notebook `10 - Numpy and Scipy` (no need to do the tasks, we will do them together in the class)
 
