@@ -60,3 +60,14 @@ __To prepare before:__
 
 __During the class:__
 - We will go through the notebook and do the tasks in the notebook
+
+## 22.05. | Data Visualization using Matplotlib
+__To prepare before:__
+- Read chapter ["Introduction to Data Visualization"](https://neuraldatascience.io/4-viz/introduction.html) and the respective learning objectives.
+
+__During the class:__
+- We will go through the Jupyter notebook together.
+- In the end, as an exercise, you should re-create a figure including different plot types based on real data
+
+
+
