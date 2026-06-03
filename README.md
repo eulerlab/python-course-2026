@@ -61,7 +61,7 @@ __To prepare before:__
 __During the class:__
 - We will go through the notebook and do the tasks in the notebook
 
-## 22.05. | Data Visualization using Matplotlib
+## 22.05. | Data Visualization using Matplotlib (1/2)
 __To prepare before:__
 - Read chapter ["Introduction to Data Visualization"](https://neuraldatascience.io/4-viz/introduction.html) and the respective learning objectives.
 
@@ -69,5 +69,12 @@ __During the class:__
 - We will go through the Jupyter notebook together.
 - In the end, as an exercise, you should re-create a figure including different plot types based on real data
 
+## 05.06. | Data Visualization using Matplotlib & Seaborn (2/2)
+__To prepare before:__
+- Do the notebook lecture from the last session on your own again
+- Read chapter ["Data Science Plots with Seaborn"](https://neuraldatascience.io/viz/seaborn/) and the respective learning objectives.
 
+__During the class:__
+- We will build the figures from the last session together step-by-step
+- Discuss and showcase Seaborn
 
