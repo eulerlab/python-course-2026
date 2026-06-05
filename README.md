@@ -79,10 +79,12 @@ __During the class:__
 - Discuss and showcase Seaborn
 
 ## 12.06. | IDEs and coding with AI
-__To prepare before:__
-1) Install visual studio code [here](https://code.visualstudio.com/download). If you already use another IDE, like Pycharm, you can use that during the class, but you will likely have to adapt the instructions during the class yourself to fit to your IDE. The lecture may be less useful to you then.
-2) After installing VS code, go to the "Extensions marketplace" (block-like icon on the left hand pannel) and install the "Python" and "Jupyter" extensions. Note that after installing the "Python" extension, VS code may ask you somthing like "No Python found. Would you like to install uv and use it to install python?". Please only click "install" here, if it expicitly mentions "uv". If you clicked "install" you can then skip the next step.
-3) If VS code did not offer you to install "uv" and you do not already have a way to create environments from requirements.txt files, please install uv [here](https://docs.astral.sh/uv/getting-started/installation/). You will have to open either PowerShell (Windows) or Terminal (Mac/Linux) and paste the first line of code into there. Afterwards, close and open PowerShell/Terminal again and type in "uv --version", to see if it works.
+__To prepare before:__ 
+1) An IDE (Integrated Development Environment) is a program where you have all you need to write, read, and run code effectively. We will talk about this more in the lecture, but as a preparation please try to install one very common IDE called "visual studio code": Install visual studio code [here](https://code.visualstudio.com/download).
+2) In VS code there are some very useful extensions specifically for working with Python and Jupyter notebooks. After installing VS code, go to the "Extensions marketplace" (block-like icon on the left hand pannel) and install the "Python" and "Jupyter" extensions. These extensions add helpful features, but they don't include Python itself. Note that after installing the "Python" extension, VS code may ask you somthing like "No Python found. Would you like to install uv and use it to install python?". Please only click "install" here, if it expicitly mentions "uv". If you clicked "install" you can then skip the next step.
+3) UV is a piece of software that allows you to donwload Python itself as well as packages like numpy.  If VS code did not offer you to install "uv", please install uv [here](https://docs.astral.sh/uv/getting-started/installation/). You will have to open either PowerShell (Windows) or Terminal (Mac/Linux) and paste the line of code for your operating system into there. Afterwards, close and open PowerShell/Terminal again and type in "uv --version", to see if it works. In the lecture we will then use uv to install python.
+
+If this did not work for you, do not worry! At the beginning of the class, there will be some time to trouble shoot of finish installing, but it is important that you try for yourself first at home.
 
 __During the class:__
 - We will explain concepts like IDEs and environments. 
