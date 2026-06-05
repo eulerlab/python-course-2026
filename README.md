@@ -78,3 +78,13 @@ __During the class:__
 - We will build the figures from the last session together step-by-step
 - Discuss and showcase Seaborn
 
+## 12.06. | IDEs and coding with AI
+__To prepare before:__
+1) Install visual studio code ["here"](https://code.visualstudio.com/download). If you already use another IDE, like Pycharm, you can use that during the class, but you will likely have to adapt the instructions during the class yourself to fit to your IDE. The lecture may be less useful to you then.
+2) After installing vs code, go to the "Extensions marketplace" (block like icon on the left hand pannel) and install the "Python" and "Jupyter" extensions. Note that after installing the "Python" extension, VS code may ask you somthing like "No Python found. Would you like to install uv and use it to install python?". Please only click "install" here, if it expicitly mentions "uv". If you clicked "install" you can then skip the next step.
+3) If vs code did not offer you to install "uv" and you do not already have a way to create environments from requirements.txt files, please install uv ["here"](https://docs.astral.sh/uv/getting-started/installation/). You will have to open either PowerShell (windows) or Terminal (mac/linux) and paste the first line of code into there. Afterwards, close and open PowerShell/Terminal again and type in "uv --version", to see if it works.
+
+__During the class:__
+- We will explain concepts like IDEs and environments. 
+- You will get some hands on experimence in running code on your computer and using IDEs, which will be super useful to you if you have to deal with code during your lab rotations.
+- If time, we will discuss how to use AI effectively while coding and you will again get some hands on experimence in "vibe coding"
