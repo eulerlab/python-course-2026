@@ -4,20 +4,20 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 
-def get_aps(voltage, threshold=-0.06, window=50):
+def get_aps(voltage, voltage_threshold=-0.06, time_window=50):
     """
     voltage: a numpy array that stores the voltages recorded for one cell. The numer of elements is therefore the number of time points
     """
     action_potentials = []
     for index in range(1, len(voltage)):
-        crossed_threshold_upward = voltage[index] >= threshold and voltage[index - 1] < threshold
+        crossed_threshold_upward = voltage[index] >= voltage_threshold and voltage[index - 1] < voltage_threshold
 
         # make sure we are not taking chunks at the very end of the voltage array
-        enough_room_left = index + window <= len(voltage)
+        enough_room_left = index + time_window <= len(voltage)
         if crossed_threshold_upward and enough_room_left:
 
             # take a chunk out of voltate array
-            segment = voltage[index:index + window]
+            segment = voltage[index:index + time_window]
             action_potentials.append(segment)
     return action_potentials
 
@@ -154,6 +154,8 @@ def plot_mean_amplitude_v1(population_control, population_drug, dt):
         drug_amplitudes = []
         for segment in drug_segments:
             drug_amplitudes.append(amplitude(segment))
+        
+        # get one mean amplitude value per cell
         mean_amplitude_control.append(np.mean(control_amplitudes))
         mean_amplitude_drug.append(np.mean(drug_amplitudes))
     x_control = [0] * number_of_cells
@@ -181,6 +183,8 @@ def plot_mean_amplitude_v2(population_control, population_drug, dt):
         drug_amplitudes = []
         for segment in drug_segments:
             drug_amplitudes.append(amplitude(segment))
+
+        # get one mean amplitude value per cell
         mean_amplitude_control.append(np.mean(control_amplitudes))
         mean_amplitude_drug.append(np.mean(drug_amplitudes))
     number_of_points = population_control.shape[1]
@@ -209,6 +213,8 @@ def plot_mean_amplitude_v3(population_control, population_drug, dt):
         drug_amplitudes = []
         for segment in control_segments:
             drug_amplitudes.append(amplitude(segment))
+        
+        # get one mean amplitude value per cell
         mean_amplitude_control.append(np.mean(control_amplitudes))
         mean_amplitude_drug.append(np.mean(drug_amplitudes))
     x_control = [0] * number_of_cells
