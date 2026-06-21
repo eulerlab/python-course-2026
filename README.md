@@ -101,3 +101,15 @@ __During the class:__
 
 __Material from the class:__
 Here are the [slides](https://github.com/eulerlab/python-course-2026/blob/main/material/Lecture_GitHub_version_Jane.pptx) and the [notes]() from the session.
+
+## 27.06. | Exploratory Data Analysis
+__To prepare before:__ 
+Please read the following sections of the Neural Data Science course book:
+- ["Working with Repeated Measures"](https://neuraldatascience.io/eda/repeated-measures/): Understand the code for generating the plots and pay close attention to the "Aggregating using Split-Apply-Combine" part. We will need this in the lecture.
+- ["Data Cleaning - Dealing with Outliers"](https://neuraldatascience.io/eda/data-cleaning/): Understand the code they use for grouping and cleaning data.
+-  ["Basic Statistics in Python: t tests with SciPy"](https://neuraldatascience.io/eda/ttests/): Read this section up to "One-sample t tests".
+
+__During the class:__
+We will apply what you learn from the readings to another familiar dataset. 
+
+
