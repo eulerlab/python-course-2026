@@ -97,4 +97,7 @@ Look at the [slides](https://github.com/eulerlab/python-course-2026/blob/main/ma
 
 __During the class:__
 - We will explain why distributed version control software like `Git` is useful and how it works on platforms, such as `GitHub`.
-- You will learn to set up a simple Git repository and work with it. 
+- You will learn to set up a simple Git repository and work with it.
+
+__Material from the class:__
+Here are the [slides](https://github.com/eulerlab/python-course-2026/blob/main/material/Lecture_GitHub_version_Jane.pptx) and the [notes]() from the session.
