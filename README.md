@@ -90,3 +90,11 @@ __During the class:__
 - We will explain concepts like IDEs and environments. 
 - You will get some hands on experimence in running code on your computer and using IDEs, which will be super useful to you if you have to deal with code during your lab rotations.
 - If time, we will discuss how to use AI effectively while coding and you will again get some hands on experimence in "vibe coding".
+
+## 19.06. | Git(Hub)
+__To prepare before:__ 
+Look at the [slides](https://github.com/eulerlab/python-course-2026/blob/main/material/Lecture%20GitHub%20-%20Python%20course_2026.pdf) for the session.
+
+__During the class:__
+- We will explain why distributed version control software like `Git` is useful and how it works on platforms, such as `GitHub`.
+- You will learn to set up a simple Git repository and work with it. 
