@@ -100,7 +100,7 @@ __During the class:__
 - You will learn to set up a simple Git repository and work with it.
 
 __Material from the class:__
-Here are the [slides](https://github.com/eulerlab/python-course-2026/blob/main/material/Lecture_GitHub_version_Jane.pptx) and the [notes]() from the session.
+Here are the [slides](https://github.com/eulerlab/python-course-2026/blob/main/material/Lecture_GitHub_version_Jane.pdf) and the [notes](https://github.com/eulerlab/python-course-2026/blob/main/material/Lecture_Github_notes_Jane.pdf) from the session.
 
 ## 27.06. | Exploratory Data Analysis
 __To prepare before:__ 
