@@ -113,3 +113,12 @@ __During the class:__
 We will apply what you learn from the readings to another familiar dataset. 
 
 
+## 03.07. | Techniques for preventing and fixing bgus
+__To prepare before:__ 
+Before the lecture, think about the following questions:
+- What do you expect of code that is used for scientific papers, and that is used in research labs to analyse data?
+- How much time do you spend writing code, and how much time do you spend reading and trying to understand code?
+- What strategies do you currently use when your code does not behave as expected?
+
+__During the class:__
+We will talk about these questions in class and will go through techniques like assertions, automatic tests, and human and LLM-based code review.
