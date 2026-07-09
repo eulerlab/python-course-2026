@@ -28,7 +28,7 @@ __During the sessions__, we will to the exercise parts of the notebooks together
 
 ### Feedback
 Please fill out the feedback form here: 
-<img src="pics/ILIAS%20QR-Code%20Evaluation.png"  width="720" align="center"/>
+<img src="pics/ILIAS%20QR-Code%20Evaluation.png"  width="400" align="center"/>
 
 
 ## 17.4. | Introduction, Setup, Project overview
