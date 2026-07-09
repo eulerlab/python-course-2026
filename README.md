@@ -26,6 +26,11 @@ __During the sessions__, we will to the exercise parts of the notebooks together
 ### Important link(s)
 [Link to bwJupyter environment](https://hub.bwjupyter.de/services/profilemanagement/add?profile=617d20c6-5216-4ab8-bf77-0f652278c3d8)  
 
+### Feedback
+Please fill out the feedback form here: 
+<img src="pics/ILIAS%20QR-Code%20Evaluation.png"  width="720" align="center"/>
+
+
 ## 17.4. | Introduction, Setup, Project overview
 __To prepare before:__
 - Read chapters ["About This Course"](https://neuraldatascience.io/intro/why/) (all sections) and ["Introduction to Data Science"](https://neuraldatascience.io/nds/what-is-nds/) (all sections)
@@ -121,6 +126,13 @@ Before the lecture, think about the following questions:
 
 __During the class:__
 We will talk about these questions in class and will go through techniques like assertions, automatic tests, and human and LLM-based code review.
+
+## 10.07. | Finishing last lecture and exam project help-desk
+__To prepare before:__ 
+Think about what you would like to talk about during the help desk. Do you face any bugs?
+
+__During the class:__
+We will talk about the expectations for the exam projects and you will be able to get help from us.
 
 
 # Exam programming project guidelines
