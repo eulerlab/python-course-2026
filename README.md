@@ -112,7 +112,6 @@ Please read the following sections of the Neural Data Science course book:
 __During the class:__
 We will apply what you learn from the readings to another familiar dataset. 
 
-
 ## 03.07. | Techniques for preventing and fixing bgus
 __To prepare before:__ 
 Before the lecture, think about the following questions:
@@ -122,3 +121,61 @@ Before the lecture, think about the following questions:
 
 __During the class:__
 We will talk about these questions in class and will go through techniques like assertions, automatic tests, and human and LLM-based code review.
+
+
+# Exam programming project guidelines
+## General points
+
+- You can work together in teams of max. 4 students per exam project.
+
+- The exam project will be not graded (pass/fail).
+
+- Projects may be selected from the list provided on bwJupyter or one of your own ideas. Projects based on your own ideas are very welcome!
+
+- During the last two sessions of the class, every group will present their project (10 min + 5 min for questions). The presenter will be selected at the session, therefore everyone in the group has to be prepared.
+
+- As discussed during the course, AI can be used for support, however, you have to declare how you have used it in the documentation of the project.
+
+- __If we realize the the project was simply copy & pasted from an existing solution from the internet, the team will fail.__
+
+- _Right after the presentation, teams have to submit their program to ILIAS, either as a `.zip` file containing the complete code and documentation or as a `.txt` file containing the link to a GitHub repository._ 
+
+## Evaluation criteria
+
+Your project will be evaluated according to the following criteria:
+
+- __Complexity and scope of project__: How difficult is the task and how much programming is needed - 20%
+- __Functionality__: Does the program accomplishes job described in project description - 30%
+- __Readability of code__: How well can the code be understood by someone who did not participate in the development (see also below) - 30% 
+- __Efficiency__: How does the program perform in terms of speed, usage of memory, vectorized code, preallocation, etc. - 5%
+- __Versatility__: How flexible is the program (e.g., input & output arguments, error-checking and -handling) - 5%
+_ __Presentation__: How well is your exam project presented - 10%
+
+## Documentation
+
+Essential parts of a good documentation include:
+
+- A readme file/document that gives the user a clear starting point
+- A description how to use the program (e.g., what is needed, how is it run, are there specific requirements etc.)
+- Comments in the code (ideally, approx. 50% of the text should be comments)
+
+## Improving Readability of the code
+
+- Compartmentalization: Divide the code into sections/modules/parts that have a defined (sub) function
+- Use meaningful variable names
+- Add function descriptions that indicate what a function requires as input and what output can be expected
+
+## Other points to consider
+
+- If you choose to write a 'traditional' program, the 'core' code must reside within a central function, plus other functions, if needed. This function may be called by a script for the presentation (see below). Please give your central function a telling name, not something like 'main.py'.
+- Also, if you choose a Jupyter notebook as basis for your project, your program needs to be well-organized into functions.
+- The (central) function shall take input arguments and possibly produce output arguments to make the code versatile. For example, the spike threshold detector would certainly need a data array (or a data file name) and a threshold as inputs and return timestamp lists. 
+- Sanity checks of input variables must be performed and some precautionary measures against nonsense input should be taken. Try to catch common errors.
+- The purpose of the function(s) and the nature of the input and output variables must be well explained in your code ( e.g. the size of variables, data type, what kind of data etc.).
+- Extensive documentation of the code should be provided. Place comments on top of the code lines they are supposed to comment, not in the same line as the code itself, and keep your comment in the visible part of the screen by starting new lines.
+- Check out again the recommendations for good (Python) coding practice as discussed in Lectures 1 and 2. Your final code should be designed to be adaptable to other similar programming tasks and it should be comprehensible by others ( e.g., use).
+- Make sure the data which your program will digest or generate during the presentation is of a manageable size so that your demo computations finish in finite time.
+- For some of the projects there is already Python code around on the internet. It goes without saying that the task is NOT to do a simple copy-and-paste job. Detecting large chunks of verbatim copies of publicly available code or of code from the previous terms students will result in failing the course.
+- Make sure that you observe any copyrights when using material (e.g., data, images, resources) of others.
+
+
